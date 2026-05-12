@@ -2,10 +2,6 @@
 
 An Android weather application built with **Kotlin**, featuring a clean bottom navigation UI and a modular fragment-based architecture.
 
-## 📱 Screenshots
-
-> _Add screenshots of the app here_
-
 ## ✨ Features
 
 - **Today's Weather** — dedicated screen for current weather conditions
@@ -68,15 +64,6 @@ app/
 
 4. Build and run on an emulator or physical device.
 
-## 🔮 Roadmap
-
-- [ ] Integrate OpenWeatherMap API for live weather data
-- [ ] Display temperature, humidity, wind speed
-- [ ] GPS-based automatic location detection
-- [ ] 7-day weather forecast screen
-- [ ] Dark mode support
-- [ ] Offline caching with Room database
-
 ## 📦 Dependencies
 
 ```gradle
@@ -90,10 +77,6 @@ implementation 'com.google.android.material:material:1.2.1'
 implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 implementation 'androidx.navigation:navigation-fragment-ktx:2.3.0'
 ```
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
